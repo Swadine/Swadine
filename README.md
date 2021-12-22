@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swadine
+- 👋 Hi, I’m Swadhin
 - 👀 I’m interested in Coding and Web Development
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on ...
